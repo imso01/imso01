@@ -14,7 +14,7 @@ I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ⚙️ Embedded Platforms  
-![STM32](https://img.shields.io/badge/STM32-F103-blue)
+![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)
 ![ARM Cortex-M3](https://img.shields.io/badge/ARM-Cortex--M3-blue)
 ![AVR (ATmega328P / 2560)](https://img.shields.io/badge/AVR-ATmega328P%20%2F%202560-green)
 ![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)
