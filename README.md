@@ -36,13 +36,13 @@ I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi,
 
   Built with Arduino, STM32, ESP32, and TurtleBot3. Features alarm deactivation, room navigation, weather info, schedule management, and smart humidifier control.  
 
-- 🎮 **Omok Game (4-in-a-row)** – C-based UI using framebuffer  
-
-  Built a 4-in-a-row game in C with a framebuffer-based UI.
-
 - 🌬️ **Smart Ventilation System** – Sensor-based window control  
 
-  Controls window state based on temperature, humidity, and rain detection. Includes LCD status display and Android app interface.  
+  Controls window state based on temperature, humidity, and rain detection. Includes LCD status display and Android app interface.
+ 
+- 🎮 **Omok Game (4-in-a-row)** – C-based UI using framebuffer  
+
+  Built a 4-in-a-row game in C with a framebuffer-based UI. 
 
 ---
 
