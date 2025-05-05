@@ -51,8 +51,8 @@ I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi,
 - GitHub: [github.com/imso01](https://github.com/imso01)
 
 ---
-I regularly solve algorithm problems on Baekjoon to improve my problem-solving skills.  
-→ [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=vpfmvp27)](https://solved.ac/vpfmvp27/)
+ 
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=vpfmvp27)](https://solved.ac/vpfmvp27/)
 
 <!--
 **imso01/imso01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
