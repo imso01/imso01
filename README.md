@@ -33,10 +33,10 @@ I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi,
 ## 🛠️ Projects
 
 - 💡 **MOMS Cookie** – Smart assistant robot system  
-  Built with Arduino, STM32, ESP32, and TurtleBot3. Features alarm deactivation, room navigation, weather info, and smart humidifier control.  
+  Built with Arduino, STM32, ESP32, and TurtleBot3. Features alarm deactivation, room navigation, weather info, schedule management, and smart humidifier control.  
 
 - 🎮 **Omok Game (4-in-a-row)** – C-based UI using framebuffer  
-  A turn-based LCD game implemented with custom UI and input handling. 
+  Built a 4-in-a-row game in C with a framebuffer-based UI.
 
 - 🌬️ **Smart Ventilation System** – Sensor-based window control  
   Controls window state based on temperature, humidity, and rain detection. Includes LCD status display and Android app interface.  
@@ -50,6 +50,7 @@ I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi,
 ---
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=vpfmvp27)](https://solved.ac/vpfmvp27/)
+I regularly solve algorithm problems on Baekjoon to strengthen my coding skills.
 <!--
 **imso01/imso01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
