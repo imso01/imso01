@@ -1,8 +1,6 @@
 ## Welcome to Soyeon's GitHub 👋
 
-Hi! I'm Soyeon Lim, a passionate developer interested in embedded systems and IoT.  
-
-I've worked on various hands-on projects using STM32, Arduino, and Raspberry Pi, gaining experience in hardware control and Linux-based software development.
+Hello, I'm Soyeon Lim, an aspiring embedded software developer.
 
 ---
 
