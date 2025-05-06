@@ -1,4 +1,5 @@
-# ![Visitor](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyeon's%20GitHub!&fontSize=30&animation=fadeIn&fontColor=ffffff)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6A6A&height=250&section=header&text=Welcome%20to%20Soyeon's%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&textAlign=middle&textY=50)
+
 
 Hello, I'm Soyeon Lim, an aspiring embedded software developer.
 
