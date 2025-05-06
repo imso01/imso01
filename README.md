@@ -1,5 +1,4 @@
 ## Welcome to Soyeon's GitHub 👋
-![banner](https://your-image-url.com/soyeon-banner.png)
 
 Hello, I'm Soyeon Lim, an aspiring embedded software developer.
 
