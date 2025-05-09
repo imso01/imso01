@@ -46,8 +46,7 @@ Hello, I'm Soyeon Lim, an aspiring embedded software developer.
 ---
 
 ## 📫 Contact
-- Email: im.soyeonx@gmail.com  
-- GitHub: [github.com/imso01](https://github.com/imso01)
+- Email: im.soyeonx@gmail.com
 
 ---
  
