@@ -31,7 +31,7 @@
 
 ## 🛠️ 대표 프로젝트
 
-### 💡 [MOMS Cookie – 스마트 비서 로봇 시스템](https://github.com/imso01/edge_robot_moms_cookie)  
+### 💡 [MOMS Cookie – 스마트 비서 로봇 시스템](https://github.com/imso01/edge_final_project_MOMs_Cookie)  
   
   TurtleBot3, STM32, ESP32, Flutter 앱을 연동한 AI 스마트 비서 시스템입니다.  
   GPT-4 Turbo 기반 음성 응답, 날씨·일정 안내, 가습기·조명 제어 등 아침 루틴을 자동화하며,  
