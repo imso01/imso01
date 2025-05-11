@@ -31,18 +31,18 @@
 
 ## 🛠️ 대표 프로젝트
 
-- 💡 MOMS Cookie – 스마트 비서 로봇 시스템  
+### 💡 [MOMS Cookie – 스마트 비서 로봇 시스템](https://github.com/imso01/edge_robot_moms_cookie)  
   
   TurtleBot3, STM32, ESP32, Flutter 앱을 연동한 AI 스마트 비서 시스템입니다.  
   GPT-4 Turbo 기반 음성 응답, 날씨·일정 안내, 가습기·조명 제어 등 아침 루틴을 자동화하며,  
   사용자의 명령에 따라 로봇이 이동하고 정보를 제공하는 홈 어시스턴트를 구현했습니다.  
 
-- 🌬️ 스마트 환기 시스템 – 센서 기반 자동 창문 제어  
+### 🌬️ [스마트 환기 시스템 – 센서 기반 창문 자동 제어](https://github.com/imso01/edge_iot_mini_smart_ventilation_)  
   
   STM32 기반으로 온도, 습도, 빗물 감지를 통해 창문 개폐를 제어하는 시스템입니다.  
   LCD 상태 표시와 Android 앱 인터페이스를 통해 사용자 편의성을 높였습니다.  
 
-- 🎮 4목 게임 (오목 기반) – TCP 기반 네트워크 & 프레임버퍼 UI 게임  
+### 🎮 [4목 게임 (오목 기반) – TCP & 프레임버퍼 UI](https://github.com/imso01/edge_linux_project)    
   
   C 언어와 프레임버퍼를 이용하여 구현한 4목 게임입니다.  
   프레임버퍼로 UI를 구성하고, TCP 소켓 기반 클라이언트-서버 구조를 통해 양방향 플레이가 가능합니다.  
