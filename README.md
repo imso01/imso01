@@ -31,17 +31,20 @@
 
 ## 🛠️ Projects
 
-- 💡 **MOMS Cookie** – Smart assistant robot system 
+- 💡 MOMS Cookie – 스마트 비서 로봇 시스템 
 
-  Built with Arduino, STM32, ESP32, and TurtleBot3. Features alarm deactivation, room navigation, weather info, schedule management, and smart humidifier control.  
+  TurtleBot3, STM32, ESP32, Flutter 앱을 연동한 AI 스마트 비서 시스템입니다.
+GPT-4 Turbo 기반 음성 응답, 날씨·일정 안내, 가습기·조명 제어 등 아침 루틴을 자동화하며,
+사용자의 명령에 따라 로봇이 이동하고 정보를 제공하는 홈 어시스턴트를 구현했습니다.
 
-- 🌬️ **Smart Ventilation System** – Sensor-based window control  
+- 🌬️ 스마트 환기 시스템 – 센서 기반 자동 창문 제어
+  STM32 기반으로 온도, 습도, 빗물 감지를 통해 창문 개폐를 제어하는 시스템입니다.
+LCD 상태 표시와 Android 앱 인터페이스를 통해 사용자 편의성을 높였습니다.
 
-  Controls window state based on temperature, humidity, and rain detection. Includes LCD status display and Android app interface.
  
-- 🎮 **Omok Game (4-in-a-row)** – C-based UI using framebuffer  
-
-  Built a 4-in-a-row game in C with a framebuffer-based UI. 
+- 🎮 4목 게임 (오목 기반) –  TCP 기반 네트워크 & 프레임버퍼 UI 게임
+  C 언어와 프레임버퍼를 이용하여 구현한 4목 게임입니다.
+프레임버퍼로 UI를 구성하고, TCP 소켓 기반 클라이언트-서버 구조를 통해 양방향 플레이가 가능합니다.
 
 ---
 
