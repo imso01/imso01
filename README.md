@@ -13,12 +13,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ⚙️ Embedded Platforms  
-![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)
+![STM32](https://img.shields.io/badge/STM32-blue)
 ![ARM Cortex-M3](https://img.shields.io/badge/ARM-Cortex--M3-blue)
 ![AVR (ATmega328P / 2560)](https://img.shields.io/badge/AVR-ATmega328P%20%2F%202560-green)
 ![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)
 ![Arduino Mega](https://img.shields.io/badge/Arduino%20Mega-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 ### 🛠 Tools & OS  
